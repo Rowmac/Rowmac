@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Penetration Testing**
 
-- 🌱 I’m currently learning **CPENT**
+- 🌱 I’m currently Teaching **Penetration Testing**
 
 - 👯 I’m looking to collaborate on **OSINT | Penetration Testing |Teaching Penetration Testing**
 
